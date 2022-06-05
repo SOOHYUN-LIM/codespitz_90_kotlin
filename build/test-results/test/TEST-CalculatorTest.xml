@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-06-05T18:48:12" hostname="imsuhyeon-ui-MacBookPro.local" time="0.12">
+  <properties/>
+  <testcase name="foldMD()" classname="CalculatorTest" time="0.092"/>
+  <testcase name="foldBracket()" classname="CalculatorTest" time="0.007"/>
+  <testcase name="repMtoPM()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="cal()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="sum()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="trim()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="numberSentence()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="assignment()" classname="CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
